@@ -1,15 +1,8 @@
-# Admin_Table
-A simple admin table application built with React and Redux, allowing you to manage a list of users.
+# React + Vite
 
-Features
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Add User:
-Add new users to the table.
-Delete User:
-Remove individual users from the table.
-Delete All Users:
-Clear the entire user list at once.
+Currently, two official plugins are available:
 
-Technologies
-React: For the UI.
-Redux: For state management.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
